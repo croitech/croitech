@@ -1,7 +1,21 @@
-👋 Olá, somos a @croitech  
-👀 Estamos interessados em desenvolver agentes de IA personalizados e soluções inovadoras de software para empresas e indivíduos.  
-🌱 Atualmente, estamos aprimorando nossa infraestrutura para a implantação perfeita de agentes de IA tanto na nuvem quanto em hardware local.  
-💞️ Buscamos colaborar em projetos envolvendo IA, automação, computação em nuvem e integração de software.  
-📫 Entre em contato: contact@croi.tech  
-😄 Pronomes: Nós/Nosso  
-⚡ Fato curioso: Nossos agentes de IA podem ser totalmente personalizados, desde a personalidade até as capacidades, prontos para integrar ao seu negócio!
+👋 Olá, somos a @croitech, uma empresa especializada no comércio de produtos de informática e tecnologia.
+
+👀 Em nosso site oficial croi.tech, você encontra uma ampla variedade de produtos, incluindo:
+
+Computadores e componentes de PC
+Softwares
+Itens de segurança eletrônica
+Acessórios de redes
+🎯 Atualmente, estamos promovendo:
+
+🌱 Sobre nós:
+
+Empresa registrada sob o CNPJ 38.220.884/0001-62, com sede em Ananindeua, Pará.
+Especializada no comércio varejista de equipamentos e suprimentos de informática.
+💻 Nosso foco:
+
+Integrações e automações internas, otimizando nossos processos e produtos para melhor atender nossos clientes.
+Projetos voltados à eficiência em gestão e comércio eletrônico.
+📫 Entre em contato: Linktree
+😄 Pronomes: Nós/Nosso
+
